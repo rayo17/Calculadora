@@ -1,0 +1,30 @@
+.estructura{
+  margin:0px auto;
+  text-align: center;
+
+  border-radius: 20;
+  border-color: bisque;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.texto{
+    color:black;
+  
+    font-display: block;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    padding: 10px;
+    font-size:50px ;
+}
+
+.button{
+  border-radius: 10px;
+  font-size:30px ;
+}
+
+
+body{
+  background-color: mediumslateblue;
+}
